@@ -1,5 +1,5 @@
 var nome = "Biance"
-var idade = 18
+var idade = 17
 var pessoa = {
     nome: "Biance",
     idade: 18, 
